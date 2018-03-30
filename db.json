@@ -110,6 +110,13 @@
           "attechUrl": ""
         },
         {
+          "expItemId": "",
+          "expType": "Medical",
+          "expAmt": "500",
+          "isAttach": "Yes",
+          "attechUrl": ""
+        },
+        {
           "expItemId": "123245",
           "expType": "Food",
           "expAmt": "250",
