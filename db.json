@@ -100,7 +100,7 @@
       "expDate": "15/04/2018",
       "expTotItems": "2",
       "expStatus": "Draft",
-      "expTotValue": "250",
+      "expTotValue": "870",
       "expItems": [
         {
           "expItemId": "123255",
@@ -110,7 +110,7 @@
           "attechUrl": ""
         },
         {
-          "expItemId": "",
+          "expItemId": "123456",
           "expType": "Medical",
           "expAmt": "500",
           "isAttach": "Yes",
