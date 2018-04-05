@@ -1,337 +1,192 @@
 {
   "Expense": {
-  "Expenses": [
-    {
-      "expId": "21123",
-      "expOf": "Client Visit",
-      "expDate": "01/04/2018",
-      "expTotItems": "2",
-      "expStatus": "Approved",
-      "expTotValue": "450",
-      "expItems": [
-        {
-          "expItemId": "123234",
-          "expType": "Food",
-          "expAmt": "120",
-          "isAttach": "Yes",
-          "attechUrl": ""
-        },
-        {
-          "expItemId": "123235",
-          "expType": "Travel",
-          "expAmt": "250",
-          "isAttach": "No",
-          "attechUrl": ""
-        },
-        {
-          "expItemId": "123236",
-          "expType": "Petrol",
-          "expAmt": "500",
-          "isAttach": "Yes",
-          "attechUrl": ""
-        }
-      ]
-    },
-     {
-      "expId": "21223",
-      "expOf": "Client Visit",
-      "expDate": "01/03/2018",
-      "expTotItems": "2",
-      "expStatus": "Approved",
-      "expTotValue": "450",
-      "expItems": [
-        {
-          "expItemId": "123234",
-          "expType": "Food",
-          "expAmt": "120",
-          "isAttach": "Yes",
-          "attechUrl": ""
-        },
-        {
-          "expItemId": "123235",
-          "expType": "Travel",
-          "expAmt": "250",
-          "isAttach": "No",
-          "attechUrl": ""
-        },
-        {
-          "expItemId": "123236",
-          "expType": "Petrol",
-          "expAmt": "500",
-          "isAttach": "Yes",
-          "attechUrl": ""
-        }
-      ]
-    },
-    {
-      "expId": "21124",
-      "expOf": "Delivery",
-      "expDate": "02/04/2018",
-      "expTotItems": "3",
-      "expStatus": "Queried",
-      "expTotValue": "600",
-      "expItems": [
-        {
-          "expItemId": "123244",
-          "expType": "Food",
-          "expAmt": "120",
-          "isAttach": "Yes",
-          "attechUrl": ""
-        },
-        {
-          "expItemId": "123245",
-          "expType": "Medical",
-          "expAmt": "250",
-          "isAttach": "No",
-          "attechUrl": ""
-        },
-        {
-          "expItemId": "123246",
-          "expType": "Stationery",
-          "expAmt": "500",
-          "isAttach": "Yes",
-          "attechUrl": ""
-        }
-      ]
-    },
-    {
-      "expId": "21223",
-      "expOf": "Client Visit",
-      "expDate": "01/06/2018",
-      "expTotItems": "2",
-      "expStatus": "Approved",
-      "expTotValue": "450",
-      "expItems": [
-        {
-          "expItemId": "123234",
-          "expType": "Food",
-          "expAmt": "120",
-          "isAttach": "Yes",
-          "attechUrl": ""
-        },
-        {
-          "expItemId": "123235",
-          "expType": "Travel",
-          "expAmt": "250",
-          "isAttach": "No",
-          "attechUrl": ""
-        },
-        {
-          "expItemId": "123236",
-          "expType": "Petrol",
-          "expAmt": "500",
-          "isAttach": "Yes",
-          "attechUrl": ""
-        }
-      ]
-    },
-    {
-      "expId": "21223",
-      "expOf": "Client Visit",
-      "expDate": "01/07/2018",
-      "expTotItems": "2",
-      "expStatus": "Approved",
-      "expTotValue": "450",
-      "expItems": [
-        {
-          "expItemId": "123234",
-          "expType": "Food",
-          "expAmt": "120",
-          "isAttach": "Yes",
-          "attechUrl": ""
-        },
-        {
-          "expItemId": "123235",
-          "expType": "Travel",
-          "expAmt": "250",
-          "isAttach": "No",
-          "attechUrl": ""
-        },
-        {
-          "expItemId": "123236",
-          "expType": "Petrol",
-          "expAmt": "500",
-          "isAttach": "Yes",
-          "attechUrl": ""
-        }
-      ]
-    },
-    {
-      "expId": "21223",
-      "expOf": "Client Visit",
-      "expDate": "01/08/2018",
-      "expTotItems": "2",
-      "expStatus": "Approved",
-      "expTotValue": "450",
-      "expItems": [
-        {
-          "expItemId": "123234",
-          "expType": "Food",
-          "expAmt": "120",
-          "isAttach": "Yes",
-          "attechUrl": ""
-        },
-        {
-          "expItemId": "123235",
-          "expType": "Travel",
-          "expAmt": "250",
-          "isAttach": "No",
-          "attechUrl": ""
-        },
-        {
-          "expItemId": "123236",
-          "expType": "Petrol",
-          "expAmt": "500",
-          "isAttach": "Yes",
-          "attechUrl": ""
-        }
-      ]
-    },
-    {
-      "expId": "21223",
-      "expOf": "Client Visit",
-      "expDate": "01/09/2018",
-      "expTotItems": "2",
-      "expStatus": "Approved",
-      "expTotValue": "450",
-      "expItems": [
-        {
-          "expItemId": "123234",
-          "expType": "Food",
-          "expAmt": "120",
-          "isAttach": "Yes",
-          "attechUrl": ""
-        },
-        {
-          "expItemId": "123235",
-          "expType": "Travel",
-          "expAmt": "250",
-          "isAttach": "No",
-          "attechUrl": ""
-        },
-        {
-          "expItemId": "123236",
-          "expType": "Petrol",
-          "expAmt": "500",
-          "isAttach": "Yes",
-          "attechUrl": ""
-        }
-      ]
-    },
-    {
-      "expId": "21223",
-      "expOf": "Client Visit",
-      "expDate": "01/10/2018",
-      "expTotItems": "2",
-      "expStatus": "Approved",
-      "expTotValue": "450",
-      "expItems": [
-        {
-          "expItemId": "123234",
-          "expType": "Food",
-          "expAmt": "120",
-          "isAttach": "Yes",
-          "attechUrl": ""
-        },
-        {
-          "expItemId": "123235",
-          "expType": "Travel",
-          "expAmt": "250",
-          "isAttach": "No",
-          "attechUrl": ""
-        },
-        {
-          "expItemId": "123236",
-          "expType": "Petrol",
-          "expAmt": "500",
-          "isAttach": "Yes",
-          "attechUrl": ""
-        }
-      ]
-    },
+    "Expenses": [
       {
-      "expId": "21223",
-      "expOf": "Client Visit",
-      "expDate": "01/04/2018",
-      "expTotItems": "2",
-      "expStatus": "Approved",
-      "expTotValue": "450",
-      "expItems": [
-        {
-          "expItemId": "123234",
-          "expType": "Food",
-          "expAmt": "120",
-          "isAttach": "Yes",
-          "attechUrl": ""
-        },
-        {
-          "expItemId": "123235",
-          "expType": "Travel",
-          "expAmt": "250",
-          "isAttach": "No",
-          "attechUrl": ""
-        },
-        {
-          "expItemId": "123236",
-          "expType": "Petrol",
-          "expAmt": "500",
-          "isAttach": "Yes",
-          "attechUrl": ""
-        }
-      ]
-    },
-    {
-      "expId": "21125",
-      "expOf": "Collection ",
-      "expDate": "15/04/2018",
-      "expTotItems": "2",
-      "expStatus": "Draft",
-      "expTotValue": "870",
-      "expItems": [
-        {
-          "expItemId": "123255",
-          "expType": "Rixa",
-          "expAmt": "120",
-          "isAttach": "Yes",
-          "attechUrl": ""
-        },
-        {
-          "expItemId": "123456",
-          "expType": "Medical",
-          "expAmt": "500",
-          "isAttach": "Yes",
-          "attechUrl": ""
-        },
-        {
-          "expItemId": "123245",
-          "expType": "Food",
-          "expAmt": "250",
-          "isAttach": "No",
-          "attechUrl": ""
-        }
-      ]
-    }
-  ],
-  "totalApproved": "2200",
-  "duration": "January 2018",
-  "result": 1,
-  "message": "Record Found Successfully !!!"
-},
+        "expId": "21123",
+        "expDate": "01/04/2018",
+        "expTotItems": "2",
+        "expStatus": "Approved",
+        "expTotValue": "450",
+        "expItems": [
+          {
+            "expItemId": "123234",
+            "expOf": "Client Visit",
+            "expType": "Food",
+            "expAmt": "120",
+            "isAttach": "Yes",
+            "attechUrl": ""
+          },
+          {
+            "expItemId": "123235",
+            "expOf": "Client Visit",
+            "expType": "Travel",
+            "expAmt": "250",
+            "isAttach": "No",
+            "attechUrl": ""
+          },
+          {
+            "expItemId": "123236",
+            "expOf": "Client Visit",
+            "expType": "Petrol",
+            "expAmt": "500",
+            "isAttach": "Yes",
+            "attechUrl": ""
+          }
+        ]
+      },
+      {
+        "expId": "21223",
+        "expDate": "01/03/2018",
+        "expTotItems": "2",
+        "expStatus": "Queried",
+        "expTotValue": "450",
+        "expItems": [
+          {
+            "expItemId": "123234",
+            "expOf": "Client Visit",
+            "expType": "Food",
+            "expAmt": "120",
+            "isAttach": "Yes",
+            "attechUrl": ""
+          },
+          {
+            "expItemId": "123235",
+            "expOf": "Client Visit",
+            "expType": "Travel",
+            "expAmt": "250",
+            "isAttach": "No",
+            "attechUrl": ""
+          },
+          {
+            "expItemId": "123236",
+            "expOf": "Client Visit",
+            "expType": "Petrol",
+            "expAmt": "500",
+            "isAttach": "Yes",
+            "attechUrl": ""
+          }
+        ]
+      },
+      {
+        "expId": "21124",
+        "expDate": "02/04/2018",
+        "expTotItems": "3",
+        "expStatus": "Queried",
+        "expTotValue": "600",
+        "expItems": [
+          {
+            "expItemId": "123244",
+            "expOf": "Client Visit",
+            "expType": "Food",
+            "expAmt": "120",
+            "isAttach": "Yes",
+            "attechUrl": ""
+          },
+          {
+            "expItemId": "123245",
+            "expOf": "Client Visit",
+            "expType": "Medical",
+            "expAmt": "250",
+            "isAttach": "No",
+            "attechUrl": ""
+          },
+          {
+            "expItemId": "123246",
+            "expType": "Stationery",
+            "expOf": "Client Visit",
+            "expAmt": "500",
+            "isAttach": "Yes",
+            "attechUrl": ""
+          }
+        ]
+      },
+      {
+        "expId": "21223",
+        "expDate": "01/06/2018",
+        "expTotItems": "2",
+        "expStatus": "Draft",
+        "expTotValue": "450",
+        "expItems": [
+          {
+            "expItemId": "123234",
+            "expOf": "Client Visit",
+            "expType": "Food",
+            "expAmt": "120",
+            "isAttach": "Yes",
+            "attechUrl": ""
+          },
+          {
+            "expItemId": "123235",
+            "expOf": "Client Visit",
+            "expType": "Travel",
+            "expAmt": "250",
+            "isAttach": "No",
+            "attechUrl": ""
+          },
+          {
+            "expItemId": "123236",
+            "expOf": "Client Visit",
+            "expType": "Petrol",
+            "expAmt": "500",
+            "isAttach": "Yes",
+            "attechUrl": ""
+          }
+        ]
+      },
+      {
+        "expId": "21223",
+        "expDate": "01/07/2018",
+        "expTotItems": "2",
+        "expStatus": "Draft",
+        "expTotValue": "450",
+        "expItems": [
+          {
+            "expItemId": "123234",
+            "expOf": "Client Visit",
+            "expType": "Food",
+            "expAmt": "120",
+            "isAttach": "Yes",
+            "attechUrl": ""
+          },
+          {
+            "expItemId": "123235",
+            "expOf": "Client Visit",
+            "expType": "Travel",
+            "expAmt": "250",
+            "isAttach": "No",
+            "attechUrl": ""
+          },
+          {
+            "expItemId": "123236",
+            "expOf": "Client Visit",
+            "expType": "Petrol",
+            "expAmt": "500",
+            "isAttach": "Yes",
+            "attechUrl": ""
+          }
+        ]
+      }
+    ],
+    "totalApproved": "2200",
+    "duration": "January 2018",
+    "result": 1,
+    "message": "Record Found Successfully !!!"
+  },
   "profile": {
-  "Name": "Kody",
-  "Department": "Sales",
-  "Designation": "Manager",
-  "Photo": "https://image.ibb.co/mKPd3S/profile_img.jpg",
-  "Email": "kody@gmail.com",
-  "PhoneNo": "7433011878",
-  "Address": "358,shikhar apartment",
-  "Date": "1 jan 2018",
-  "Birthdate": "12 jun 2018 ",
-  "Experience": "2.5 year exp",
-  "TotalExpense": "5000",
-  "TotalVisits": "12",
-  "TotalCollection": "78",
-  "TotaLeaves": "14/98",
-  "TotalAttandence": "83/91"
-}
+    "Name": "Kody",
+    "Department": "Sales",
+    "Designation": "Manager",
+    "Photo": "https://image.ibb.co/mKPd3S/profile_img.jpg",
+    "Email": "kody@gmail.com",
+    "PhoneNo": "7433011878",
+    "Address": "358,shikhar apartment",
+    "Date": "1 jan 2018",
+    "Birthdate": "12 jun 2018 ",
+    "Experience": "2.5 year exp",
+    "TotalExpense": "5000",
+    "TotalVisits": "12",
+    "TotalCollection": "78",
+    "TotaLeaves": "14/98",
+    "TotalAttandence": "83/91"
+  }
 }
