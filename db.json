@@ -7,6 +7,7 @@
         "expTotItems": "2",
         "expStatus": "Approved",
         "expTotValue": "450",
+         "expQueriedReason": "",
         "expItems": [
           {
             "expItemId": "123234",
@@ -40,6 +41,7 @@
         "expTotItems": "2",
         "expStatus": "Queried",
         "expTotValue": "450",
+        "expQueriedReason": "Amount of Travel is not allowed .",
         "expItems": [
           {
             "expItemId": "123234",
@@ -73,6 +75,7 @@
         "expTotItems": "3",
         "expStatus": "Queried",
         "expTotValue": "600",
+         "expQueriedReason": "Amount of Travel is not allowed .",
         "expItems": [
           {
             "expItemId": "123244",
@@ -106,6 +109,7 @@
         "expTotItems": "2",
         "expStatus": "Draft",
         "expTotValue": "450",
+         "expQueriedReason": "",
         "expItems": [
           {
             "expItemId": "123234",
@@ -139,6 +143,7 @@
         "expTotItems": "2",
         "expStatus": "Draft",
         "expTotValue": "450",
+         "expQueriedReason": "",
         "expItems": [
           {
             "expItemId": "123234",
